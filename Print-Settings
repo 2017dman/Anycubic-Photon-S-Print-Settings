@@ -1,3 +1,12 @@
-|Resin Brand|Resin Colour|Resin Name|Layer Hight|Bottom Exp Time|Bottom Layers|Layer Exp Time|Off Time|Z Lift H|Z Lift Speed|Z Retract Speed|
-|-----------|------------|----------|-----------|---------------|-------------|--------------|--------|--------|------------|---------------|
-|AnyCube    |Green       |Basic     |0.05       |55             |3            |5             |1       |4       |3           |3              |
+# Working Settings for Anycube Photon S
+
+
+| Resin Brand | Resin Colour | Resin Name | Layer Hight | Bottom Exp Time | Bottom Layers | Layer Exp Time | Off Time | Z Lift H | Z Lift Speed | Z Retract Speed |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AnyCube | Green | Basic | 0.05 | 55 | 3 | 5 | 1 | 4 | 3 | 3 |
+
+
+#Settings being tested
+| Resin Brand | Resin Colour | Resin Name | Layer Hight | Bottom Exp Time | Bottom Layers | Layer Exp Time | Off Time | Z Lift H | Z Lift Speed | Z Retract Speed |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AnyCube | Black | Basic | 0.05 | 60 | 3 | 7 | 1 | 4 | 3 | 3 |
